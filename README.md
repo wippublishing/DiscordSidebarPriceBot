@@ -11,4 +11,4 @@ Discord bot for pulling cryptocurrency price data at intervals and displaying it
 ## Run
 `node index.js <ticker> <update interval (in milliseconds)> <token index (from auth.json)>`
 e.g.
-`node index.js eth 60000 0`
+`node index.js PAGE 60000 0`
